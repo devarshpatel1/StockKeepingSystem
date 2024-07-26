@@ -1,7 +1,7 @@
 /**
  * Author : Devarsh Patel
  * Filename : Main.java
- * Description: This main file Create, Edit, Delete, Display all product and Display product by SKU.
+ * Description: This main file Create Product and Perishable Product, Edit Product, Delete Product, Display all product and Display product by SKU.
  * Version : 1.0
  * Date : 26-07-2024
  */
