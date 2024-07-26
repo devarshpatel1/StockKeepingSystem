@@ -227,6 +227,7 @@ public class Main {
         for (Product product : products) {
             System.out.println("  Product  :  " + product.getName());
             System.out.println(product);
+            System.out.println("---------------------------------------");
         }
     }
 
