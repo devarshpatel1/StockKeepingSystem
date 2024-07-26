@@ -22,7 +22,6 @@ public class Main {
     public static void main(String[] args) {
         // Set the keepLooping condition and set it to trus
         boolean keepLooping = true;
-        boolean validateChoise = true;
         while (keepLooping) {
             // Printing some instruction to choose options to create,update,delete or print product
             System.out.println("1) Create Product");
@@ -33,6 +32,8 @@ public class Main {
             System.out.println("6) Display all Products");
             System.out.println("7) Exit");
 
+            // Declare VAriable to Validate the choice
+            boolean validateChoise = true;
             // Loop to check the Validate input and do some operation accroding to user choise
             while (validateChoise){
                 try {
